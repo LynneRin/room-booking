@@ -1,0 +1,9 @@
+ID, Room Number, Room View, Room Type, Availability
+1, R001, Jungle View, Single, True
+2, R002, Jungle View, Single, True
+3, R003, Jungle View, Single, True
+4, R004, Jungle View, Quad, True
+5, R005, Sea View, Single, True
+6, R006, Sea View, Queen, True
+7, R007, Sea View, Double, True
+8, R008, Sea View, Double, True

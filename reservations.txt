@@ -1,0 +1,5 @@
+Booking ID, Room Number, Customer Name, Days of Stay, Total, Date Check In, Checked Out
+1, 1, Lynne, 1, 395, 10-04-2022, True
+2, 2, King Kong, 1, 395, 11-05-2022, True
+3, 5, Test, 1, 395, 11-05-2022, True
+4, 4, John, 4, 1580, 11-05-2022, True
